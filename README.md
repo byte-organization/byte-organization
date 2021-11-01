@@ -1,4 +1,4 @@
-# bytedance-organization
+# byte-organization
 欢迎PR补充 🎉 （字母顺序排序）
 
 <p align="center">
