@@ -1,5 +1,5 @@
 # byte-organization
-欢迎PR补充 🎉 （字母顺序排序）
+收集一些开源仓库，欢迎PR补充 🎉 （字母顺序排序）
 
 <p align="center">
   <a href="https://ant.design">
