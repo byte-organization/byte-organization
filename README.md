@@ -8,7 +8,7 @@
 </p>
 
 
-- https://github.com/bytedance Bytedance Inc.）
+- https://github.com/bytedance （Bytedance Inc.）
 - https://github.com/bytedancer-lab （一个非正式的字节organization）
 - https://github.com/DouyinFE （抖音前端）
 - https://github.com/oceanengine （巨量引擎）
