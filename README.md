@@ -2,9 +2,7 @@
 收集一些开源组织，欢迎PR补充 🎉 （字母顺序排序）
 
 <p align="center">
- 
-    <img width="200" src="https://avatars.githubusercontent.com/u/93518756?s=200&v=4">
-
+  <img width="200" src="https://avatars.githubusercontent.com/u/93518756?s=200&v=4"></img>
 </p>
 
 
