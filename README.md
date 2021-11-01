@@ -8,12 +8,12 @@
 </p>
 
 
-- https://github.com/bytedance（Bytedance Inc.）
-- https://github.com/bytedancer-lab（一个非正式的字节organization）
-- https://github.com/DouyinFE（抖音前端）
-- https://github.com/oceanengine（巨量引擎）
-- https://github.com/arco-design（arco-design）
-- https://github.com/modern-js-dev（modern.js）
-- https://github.com/byteinspire（轻服务）
-- https://github.com/larksuite（Lark Technologies Pte. Ltd.）
-- https://github.com/volcengine（火山引擎）
+- https://github.com/bytedance Bytedance Inc.）
+- https://github.com/bytedancer-lab （一个非正式的字节organization）
+- https://github.com/DouyinFE （抖音前端）
+- https://github.com/oceanengine （巨量引擎）
+- https://github.com/arco-design （arco-design）
+- https://github.com/modern-js-dev （modern.js）
+- https://github.com/byteinspire （轻服务）
+- https://github.com/larksuite （Lark Technologies Pte. Ltd.）
+- https://github.com/volcengine （火山引擎）
