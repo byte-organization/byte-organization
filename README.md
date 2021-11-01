@@ -17,4 +17,3 @@
 - https://github.com/byteinspire （轻服务）
 - https://github.com/larksuite （Lark Technologies Pte. Ltd.）
 - https://github.com/volcengine （火山引擎）
-- https://github.com/elab-opensource  （教育前端）
